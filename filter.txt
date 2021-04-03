@@ -1,0 +1,1 @@
+headingFiltered = headingFiltered*0.95 + azimuth*0.05;
